@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "345407280554",
+    "project_id": "coursefireflutter",
+    "storage_bucket": "coursefireflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345407280554:android:87e02e60f1ef873353c7d3",
+        "android_client_info": {
+          "package_name": "com.example.noteapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "345407280554-4hiq4cbapndlt09mj4b3gv2pg5s2fckj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcmesbZIKwgaX1J5UnHlob78-qIUd8mBU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "345407280554-4hiq4cbapndlt09mj4b3gv2pg5s2fckj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
